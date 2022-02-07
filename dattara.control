@@ -1,0 +1,4 @@
+# dattara extension.
+comment = 'What-if statistics for PostgreSQL.'
+default_version = '0.0.1'
+relocatable = true
